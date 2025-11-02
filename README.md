@@ -3,10 +3,14 @@
 
 
 ```
+TODO: list pip installs
+
 FIRST, TURN YOUR VOLUME DOWN TO LIKE 10% OR LESS, SO IT IS ON THE LOWEST SETTING!!!!!!!!!
 
 python 7_autothresh.py
 ```
+
+**I MEAN IT, TURN YOUR VOLUME DOWN BEFORE RUNNING THE PROGRAM**
 
 Commands:
 - moving mouse: where the sensor is located. doesn't go off the edge of the screen, so you have to stay within like 80px of the edge.
